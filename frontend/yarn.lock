@@ -5487,10 +5487,10 @@ jsesc@~0.5.0:
   resolved "https://registry.yarnpkg.com/jsesc/-/jsesc-0.5.0.tgz#e7dee66e35d6fc16f710fe91d5cf69f70f08911d"
   integrity sha1-597mbjXW/Bb3EP6R1c9p9w8IkR0=
 
-json-formatter-js@^2.2.0:
-  version "2.2.1"
-  resolved "https://registry.yarnpkg.com/json-formatter-js/-/json-formatter-js-2.2.1.tgz#b101d628e86f028dc9cf9a7e1c83c65e536c9f87"
-  integrity sha1-sQHWKOhvAo3Jz5p+HIPGXlNsn4c=
+json-formatter-js@^2.5.10:
+  version "2.5.11"
+  resolved "https://registry.yarnpkg.com/json-formatter-js/-/json-formatter-js-2.5.11.tgz#b21db9248ac1e8ae2cf814985b2f42ce50174439"
+  integrity sha512-njrwXGOZNZTt7nrhkFDqzfEJqL442QEFLS2deEMHQhOb6m3ubYXopXFJrZCsL8/NQah3OA6O7OrlECPusoMBwQ==
 
 json-parse-better-errors@^1.0.1, json-parse-better-errors@^1.0.2:
   version "1.0.2"
